@@ -1,0 +1,5 @@
+[32mINFO    [0m test_VerifyLoginpage:test_loginpage.py:32 Launching the url
+[32mINFO    [0m test_VerifyLoginpage:test_loginpage.py:37 getting the login page
+[32mINFO    [0m test_VerifyLoginpage:test_loginpage.py:39 clicking on the Login link
+[32mINFO    [0m test_VerifyLoginpage:test_loginpage.py:46 clicking the login button after entering cred
+[32mINFO    [0m test_VerifyLoginpage:test_loginpage.py:49 get homePage details

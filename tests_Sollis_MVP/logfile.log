@@ -1,0 +1,210 @@
+2022-06-23 12:02:30,724 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-23 12:02:42,910 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-23 12:02:42,910 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-23 12:02:55,258 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-23 12:03:15,954 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-23 12:09:36,307 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-23 12:09:48,766 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-23 12:09:48,766 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-23 12:09:58,950 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-23 12:10:19,302 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-23 12:12:28,655 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-23 12:12:40,833 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-23 12:12:40,833 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-23 12:12:50,107 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-23 12:13:10,409 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-23 12:21:01,934 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-23 12:21:14,123 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-23 12:21:14,123 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-23 12:21:22,287 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-23 12:21:42,771 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-23 22:10:48,140 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-23 22:11:00,284 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-23 22:11:00,284 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-23 22:11:11,373 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-23 22:11:31,753 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-24 10:19:58,986 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-24 10:20:11,563 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-24 10:20:11,563 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-24 10:20:25,368 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-24 10:20:47,081 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-24 12:37:30,401 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-24 12:37:42,982 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-24 12:37:42,982 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-24 12:37:56,933 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-24 12:38:18,621 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-24 12:57:04,273 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-24 12:57:16,843 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-24 12:57:16,843 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-24 12:57:28,560 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-24 12:57:50,789 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-24 13:02:33,237 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-24 13:02:45,828 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-24 13:02:45,828 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-24 13:02:59,301 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-24 13:03:21,304 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-25 19:18:16,680 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-25 19:18:29,031 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-25 19:18:29,032 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-25 19:18:40,624 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-25 19:19:01,587 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-26 22:20:57,322 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-26 22:21:10,526 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-26 22:21:10,526 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-26 22:21:21,285 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-26 22:21:41,752 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-28 05:43:00,026 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 05:43:12,184 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 05:43:12,184 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 05:43:20,387 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-28 05:43:40,721 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-28 05:51:11,615 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 05:51:23,765 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 05:51:23,765 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 08:28:05,651 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 08:28:17,838 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 08:28:17,838 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 08:28:26,998 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-28 08:28:47,358 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-28 09:49:52,631 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 09:50:04,791 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 09:50:04,791 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 09:50:11,421 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-28 09:50:31,718 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-28 18:13:59,513 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 18:14:11,699 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 18:14:11,699 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 18:14:20,965 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-28 18:14:41,306 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-28 18:57:47,955 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 18:58:00,140 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 18:58:00,140 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 18:58:08,953 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-28 18:58:29,303 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-28 19:01:03,288 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-28 19:01:15,470 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-28 19:01:15,470 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-28 19:01:22,463 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-28 19:01:43,191 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-29 23:17:55,588 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-29 23:18:09,032 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-29 23:18:09,032 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-29 23:18:18,404 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-29 23:18:39,788 :INFO : test_VerifyLoginpage :get homePage details
+2022-06-30 10:04:11,745 :INFO : test_VerifyLoginpage :Launching the url
+2022-06-30 10:04:25,973 :INFO : test_VerifyLoginpage :getting the login page
+2022-06-30 10:04:25,973 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-06-30 10:04:38,125 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-06-30 10:04:59,403 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 16:28:15,725 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 16:28:28,577 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 16:28:28,577 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 16:28:37,270 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 16:28:58,591 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 17:20:14,507 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 17:22:10,256 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 17:22:23,064 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 17:22:23,064 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 17:22:31,147 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 17:22:37,977 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 17:26:28,818 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 17:26:41,588 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 17:26:41,588 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 17:26:50,452 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 17:27:01,676 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 17:29:17,269 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 17:29:30,035 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 17:29:30,035 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 17:29:39,661 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 17:29:56,368 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 17:35:39,592 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 17:35:52,523 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 17:35:52,523 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 17:36:01,036 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 17:36:17,445 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 17:38:15,121 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 17:38:27,835 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 17:38:27,835 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 17:38:37,705 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 17:38:54,223 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-05 18:33:18,683 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-05 18:33:31,728 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-05 18:33:31,728 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-05 18:33:42,858 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-05 18:33:59,503 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-06 20:36:32,964 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-06 20:36:37,803 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-06 20:36:37,803 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-06 20:36:49,835 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-06 20:37:06,358 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-07 16:22:11,977 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-07 16:22:16,822 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-07 16:22:16,822 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-07 16:22:29,124 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-07 16:22:46,465 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-07 16:27:09,399 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-07 16:27:14,692 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-07 16:27:14,692 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-07 16:29:49,474 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-07 16:29:54,284 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-07 16:29:54,284 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-07 16:30:09,352 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-07 16:30:25,628 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-12 13:23:09,528 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-12 13:23:14,338 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-12 13:23:14,338 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-12 13:23:27,269 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-12 13:23:43,591 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-12 13:32:24,751 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-12 13:32:30,125 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-12 13:32:30,125 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-12 13:32:41,801 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-12 13:33:00,067 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-13 15:35:49,648 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-13 15:35:54,474 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-13 15:35:54,474 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-13 15:36:10,533 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-13 15:36:26,801 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-13 15:59:58,427 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-13 16:00:03,233 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-13 16:00:03,233 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-13 16:05:05,879 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-13 16:05:08,276 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-13 16:05:08,276 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-13 16:05:23,753 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-13 16:05:29,983 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-13 16:06:23,425 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-13 16:08:22,609 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-13 16:08:25,066 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-13 16:08:25,066 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-13 16:08:41,229 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-13 16:08:50,698 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-13 16:16:53,634 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-13 16:16:56,036 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-13 16:16:56,036 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-13 16:17:09,853 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-13 16:17:13,170 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-15 17:27:20,217 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-15 17:27:22,637 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-15 17:27:22,637 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-15 17:27:33,039 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-15 17:27:36,345 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-22 10:47:14,222 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-22 10:47:16,586 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-22 10:47:16,586 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-22 10:47:26,594 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-22 10:47:29,737 :INFO : test_VerifyLoginpage :get homePage details
+2022-07-22 10:57:11,947 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-22 10:57:14,324 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-22 10:57:14,324 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-22 10:59:31,258 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-22 10:59:33,677 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-22 10:59:33,677 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-22 11:06:50,598 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-22 11:06:52,984 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-22 11:06:52,984 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-22 11:08:26,304 :INFO : test_VerifyLoginpage :Launching the url
+2022-07-22 11:08:31,150 :INFO : test_VerifyLoginpage :getting the login page
+2022-07-22 11:08:31,150 :INFO : test_VerifyLoginpage :clicking on the Login link
+2022-07-22 11:09:00,728 :INFO : test_VerifyLoginpage :clicking the login button after entering cred
+2022-07-22 11:09:03,977 :INFO : test_VerifyLoginpage :get homePage details
